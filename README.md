@@ -1,4 +1,4 @@
-# Celebal_Assignment_1
+# Celebal_Assignment
 # Machine Learning Foundations — Week 1 Assignment
 
 This repository contains the completed **Week 1 Assignment** covering fundamental math, statistics, and programming building blocks required for Machine Learning and Data Science.
